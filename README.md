@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm (he/him) Jean De Souza</h1>
-<span align="center">(pronounced like "Jean Claude Van Damme")</span>
-<h3 align="left">A passionate French-Brazilian Postgraduate Computer Science student at Essex University Online, living in Calgary, Canada</h3>
+<h6 align="center">(pronounced like "Jean Claude Van Damme")</h6>
+<h3 align="left">👨🏼‍🎓A passionate French-Brazilian Postgraduate Computer Science student at Essex University Online</h3>
+<h3 align="left">📍iving in Calgary, Canada</h3>
 
 - 📫 How to reach me **contact.jean@icloud.com**
 
