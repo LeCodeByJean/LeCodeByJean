@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm (he/him) Jean De Souza</h1>
-<span>(pronounced like "Jean Claude Van Damme")</span>
-<h3 align="center">A passionate French-Brazilian Postgraduate Computer Science student at Essex University Online, living in Calgary, Canada</h3>
+<span align="center">(pronounced like "Jean Claude Van Damme")</span>
+<h3 align="left">A passionate French-Brazilian Postgraduate Computer Science student at Essex University Online, living in Calgary, Canada</h3>
 
 - 📫 How to reach me **contact.jean@icloud.com**
 
-<h3 align="left">Connect with me:</h3>
+<h4 align="left">Connect with me:</h4>
 <p align="left">
 <a href="https://linkedin.com/in/jean-desouza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jean-desouza" height="30" width="40" /></a>
 </p>
