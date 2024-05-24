@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm (he/him) Jean De Souza (pronounced like "Jean Claude Van Damme")</h1>
+<h1 align="center">Hi 👋, I'm (he/him) Jean De Souza</h1>
+<span>(pronounced like "Jean Claude Van Damme")</span>
 <h3 align="center">A passionate French-Brazilian Postgraduate Computer Science student at Essex University Online, living in Calgary, Canada</h3>
 
 - 📫 How to reach me **contact.jean@icloud.com**
