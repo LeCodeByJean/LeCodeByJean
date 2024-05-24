@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jean De Souza </h1><6>(he/him)</6>
+<h1 align="center">Hi 👋, I'm Jean De Souza <small>(he/him)</small></h1>
 <h6 align="center">(pronounced like "Jean Claude Van Damme")</h6>
 <h3 align="left">👨🏼‍🎓A passionate French-Brazilian Postgraduate Computer Science student at Essex University Online</h3>
 <h3 align="left">📍Calgary, Canada</h3>
