@@ -5,7 +5,7 @@
 <h3 align="left">🎯Aspiring Software Developer with a passion for continuous learning 📚
 <h3 align="left">📍French-Brazilian, living in Calgary, Canada 🇨🇦🇫🇷🇧🇷</h3>
 
-- 📫 How to reach me **contact.jean@icloud.com**
+- 📫 How to reach me **jean.contact@icloud.com**
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
