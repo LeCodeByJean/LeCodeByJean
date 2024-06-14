@@ -1,8 +1,9 @@
 <img src="https://media.licdn.com/dms/image/D4E16AQGJKiayBRwWDg/profile-displaybackgroundimage-shrink_350_1400/0/1718398389899?e=1723680000&v=beta&t=kv7GMUH6aiuNWxIJuGW9l7rt7FltXvpSSQR_JYLHh2U" alt="banner" />
 <h1 align="center">Hi 👋,  I'm Jean De Souza <small>(he/him)</small></h1>
 <h6 align="center">(pronounced like "Jean Claude Van Damme", "Jean Dujardin" or "Jean-Paul Sartre", !=👖)</h6>
-<h3 align="left">👨🏼‍🎓Postgraduate Computer Science student at Essex University Online</h3>
-<h3 align="left">🎯Aspiring Software Developer with a passion for continuous learning 📚
+<h3 align="left">🎯Software Developer with a passion for continuous learning 📚
+<h3 align="left">👨🏼‍🎓Postgraduate Certificate in Computer Science</h3>
+<h3 align="left">👨🏼‍🎓Bachelor's degree in Science and Technology Management</h3>
 <h3 align="left">📍French-Brazilian, living in Calgary, Canada 🇨🇦🇫🇷🇧🇷</h3>
 
 - 📫 How to reach me **jean.contact@icloud.com**
