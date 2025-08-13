@@ -1,7 +1,7 @@
-<img src="https://media.licdn.com/dms/image/v2/D4E16AQGOlXEKpGfOdw/profile-displaybackgroundimage-shrink_350_1400/B4EZYyOeaOHcAY-/0/1744599378749?e=1750291200&v=beta&t=nq-z4DFa2TR-4RozQnb4SnL13hz-S94Ls246uEqme8E" alt="banner" />
+<img src="https://media.licdn.com/dms/image/v2/D4E16AQGOlXEKpGfOdw/profile-displaybackgroundimage-shrink_350_1400/B4EZYyOeaOHcAY-/0/1744599378749?e=1758153600&v=beta&t=1yXriB7AI-1ATXkQbB8dTwQBfqGATQr4SoJPNKqbcfw" alt="banner" />
 <h1 align="center">Hi 👋,  I'm Jean De Souza <small>(he/him)</small></h1>
 <h6 align="center">(pronounced like "Jean Claude Van Damme", "Jean Dujardin" or "Jean-Paul Sartre", !=👖)</h6>
-<h3 align="left">🎯Business Analyst / Data Analyst / Software Developer with a passion for continuous learning 📚
+<h3 align="left">🎯Data Scientist with a passion for continuous learning 📚
 <h3 align="left">👨🏼‍🎓Postgraduate Certificate in Computer Science</h3>
 <h3 align="left">👨🏼‍🎓Bachelor's degree in Science and Technology Management</h3>
 <h3 align="left">📍French-Brazilian, living in Calgary, Canada 🇨🇦🇫🇷🇧🇷</h3>
