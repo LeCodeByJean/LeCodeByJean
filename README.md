@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/v2/D4E16AQE2JJkvXkRPaw/profile-displaybackgroundimage-shrink_350_1400/B4EZqKfh0NHMAY-/0/1763260112701?e=1773273600&v=beta&t=NNIcExG_yFs4XlKXqta1ktayvSxEe1-2z2HkuzVrsug" />
+<img src="https://media.licdn.com/dms/image/v2/D4E16AQE2JJkvXkRPaw/profile-displaybackgroundimage-shrink_350_1400/B4EZqKfh0NHMAY-/0/1763260112701?e=1776297600&v=beta&t=8Jo7blNLUH_eaEVOoissBUOJw9CR2-Gs-YbC6ONfEPc" />
 <h1 align="center">Hi 👋,  I'm Jean De Souza <small>(he/him)</small></h1>
 <h6 align="center">(pronounced like "Jean Claude Van Damme", "Jean Dujardin" or "Jean-Paul Sartre", !=👖)</h6>
 <h3 align="left">🎯Data Scientist with a passion for continuous learning 📚
